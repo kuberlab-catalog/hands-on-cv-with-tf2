@@ -1,0 +1,15 @@
+Description: Hands-On Computer Vision with TensorFlow 2
+Engine: gotpl
+Home: http://kuberlab.com
+Icon: https://raw.githubusercontent.com/kuberlab-catalog/hands-on-cv-with-tf2/master/chart/cover.png
+Keywords:
+- tensorflow
+- template
+- kuberlab
+- kuberlabapptemplate
+Maintainers:
+- Email: monstarnn@gmail.com
+  Name: Vadim Grishin
+Name: hands-on-cv-with-tf2
+Version: 1.0.0
+Type: mlapp-v2

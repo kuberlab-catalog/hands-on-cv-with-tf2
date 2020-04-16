@@ -179,6 +179,7 @@ spec:
     clusterStorage: {{ .storage.value }}
   - isLibDir: false
     name: data
+    clusterStorage: {{ .storage.value }}
   - isLibDir: false
     mountPath: /notebooks
     name: code
